@@ -104,12 +104,8 @@ Ninx is the Information Systems capstone project (**Trabalho de Conclusão de Cu
 
 The project connects backend engineering to a practical retail problem: modeling business rules, maintaining relational data, controlling access, testing critical workflows, and delivering an integrated desktop and web experience.
 
-## License
-
-The three application repositories do not currently include license files. Refer to each repository for any future licensing updates.
-
 ## Author
 
 **Matheus Augusto Teixeira Silva**
 
-[GitHub](https://github.com/maat-aug) · [LinkedIn](https://www.linkedin.com/in/matheus-augusto-a89348265/)
+[GitHub](https://github.com/maat-aug)
