@@ -106,6 +106,4 @@ The project connects backend engineering to a practical retail problem: modeling
 
 ## Author
 
-**Matheus Augusto Teixeira Silva**
-
-[GitHub](https://github.com/maat-aug)
+**maataug.pessoal@gmail.com**
